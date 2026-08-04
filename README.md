@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/tarunww/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/tarunww/leetcode/tree/master/0877-stone-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tarunww/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/tarunww/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/tarunww/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2974-minimum-number-game](https://github.com/tarunww/leetcode/tree/master/2974-minimum-number-game) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/tarunww/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tarunww/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/tarunww/leetcode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/tarunww/leetcode/tree/master/0088-merge-sorted-array) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/tarunww/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/tarunww/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0010-regular-expression-matching](https://github.com/tarunww/leetcode/tree/master/0010-regular-expression-matching) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/tarunww/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/tarunww/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/tarunww/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tarunww/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tarunww/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
