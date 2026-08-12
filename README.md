@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/tarunww/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/tarunww/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/tarunww/leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/tarunww/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2974-minimum-number-game](https://github.com/tarunww/leetcode/tree/master/2974-minimum-number-game) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/tarunww/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3731-find-missing-elements](https://github.com/tarunww/leetcode/tree/master/3731-find-missing-elements) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tarunww/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/tarunww/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/tarunww/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tarunww/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/tarunww/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3731-find-missing-elements](https://github.com/tarunww/leetcode/tree/master/3731-find-missing-elements) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tarunww/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/tarunww/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
