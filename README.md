@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/tarunww/leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/tarunww/leetcode/tree/master/1140-stone-game-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tarunww/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1563-stone-game-v](https://github.com/tarunww/leetcode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/tarunww/leetcode/tree/master/2029-stone-game-ix) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/tarunww/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/tarunww/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/tarunww/leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/tarunww/leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/tarunww/leetcode/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/tarunww/leetcode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/tarunww/leetcode/tree/master/2029-stone-game-ix) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/tarunww/leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tarunww/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/tarunww/leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/tarunww/leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/tarunww/leetcode/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/tarunww/leetcode/tree/master/1563-stone-game-v) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/tarunww/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Recursion
 |  |
@@ -149,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/tarunww/leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/tarunww/leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/tarunww/leetcode/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/tarunww/leetcode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/tarunww/leetcode/tree/master/2029-stone-game-ix) |
 ## Simulation
 |  |
