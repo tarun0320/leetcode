@@ -21,14 +21,12 @@ public:
             int diff= minutes[i+1]-minutes[i];
             mini = min(mini,diff);
         }
-        int lastDiff= (minutes[0]+1440)-minutes[n-1];
-        mini = min(mini, lastDiff);   
+        int lastDiff1= (minutes[0]+1440)-minutes[n-1];
+        int lastDiff2= minutes[n-1]-minutes[0];
+        int lastDiff= min(lastDiff1, lastDiff2);
+        mini= min(mini,lastDiff); 
 
          return mini;
-
-
-
-
-        
+  
     }
 };
