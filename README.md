@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/tarunww/leetcode/tree/master/0010-regular-expression-matching) |
 | [0115-distinct-subsequences](https://github.com/tarunww/leetcode/tree/master/0115-distinct-subsequences) |
 | [0539-minimum-time-difference](https://github.com/tarunww/leetcode/tree/master/0539-minimum-time-difference) |
+| [0940-distinct-subsequences-ii](https://github.com/tarunww/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/tarunww/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1927-sum-game](https://github.com/tarunww/leetcode/tree/master/1927-sum-game) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/tarunww/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/tarunww/leetcode/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/tarunww/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/tarunww/leetcode/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/tarunww/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/tarunww/leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/tarunww/leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/tarunww/leetcode/tree/master/1563-stone-game-v) |
