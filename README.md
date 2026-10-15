@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/tarunww/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/tarunww/leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/tarunww/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/tarunww/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/tarunww/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/tarunww/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2974-minimum-number-game](https://github.com/tarunww/leetcode/tree/master/2974-minimum-number-game) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/tarunww/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/tarunww/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/tarunww/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/tarunww/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/tarunww/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tarunww/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/tarunww/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/tarunww/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/tarunww/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Ordered Set
 |  |
 | ------- |
@@ -383,4 +386,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/tarunww/leetcode/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/tarunww/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/tarunww/leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/tarunww/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
